@@ -14,6 +14,7 @@ With the following dataset we conclude following outcomes:
 4. Return rates is been computed to gain more insights of sales.
 
 
-For reference you can refer [Mart Insights](https://app.powerbi.com/groups/me/reports/424b33d9-0327-4f4b-8c73-42eab29de924/ReportSection)
+For reference you can refer [Mart Analytics](https://app.powerbi.com/groups/me/reports/424b33d9-0327-4f4b-8c73-42eab29de924/ReportSection)
 
 
+![Capture](https://user-images.githubusercontent.com/40695609/140544845-486dae0a-66c3-42ae-90c1-72eca120c2f5.PNG)
